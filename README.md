@@ -47,10 +47,23 @@ The model outputs a **probability between 0 and 1**, where higher values indicat
 | Web App | Streamlit |
 
 ---
+🎥 YouTube Demo
 
-## 🚀 How to Run This Project
+Watch the complete walkthrough of this project on YouTube:
+👉 https://youtu.be/DCsTsKMxfSo
 
-### Step 1️⃣: Clone the Repository
-```bash
-git clone https://github.com/aayushi-web/loan-payback-prediction.git
-cd loan-payback-prediction
+
+
+---
+🧑‍💻 Author
+
+👩‍💻 Aayushi Mishra
+Data Scientist | Kaggle Expert | Founding Engineer @ Compile The Code
+
+📌 GitHub: aayushi-web
+
+📧 Email: mishraaayushi421@gmail.com
+
+🎓 Skills: Python, SQL, Machine Learning, Streamlit, Power BI
+
+“Making machine learning models interpretable and accessible to everyone.”
